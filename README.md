@@ -13,7 +13,7 @@
 ![Распределение клиентов банка](https://drive.google.com/uc?export=download&id=1-PgdgP4KjSG-NNmRa5HcvJUd5JF4auIV)
 ![](https://drive.google.com/uc?export=download&id=1bc3noLGflnAwlpP77DjMISInHJuV0X2A)
 
-![Корреляции к показателю оттока](https://drive.google.com/file/d/1znQBLUs5GZjaYIXnDBlfnRXTSLTveESZ/view?usp=drive_link)
+![Корреляции к показателю оттока](https://drive.google.com/uc?export=download&id=1znQBLUs5GZjaYIXnDBlfnRXTSLTveESZ)
 
 ![Группы отточных клиентов](https://drive.google.com/file/d/152HYsg2s0RYQEOUZyI33pVfT2hnOODeu/view?usp=sharing)
 
