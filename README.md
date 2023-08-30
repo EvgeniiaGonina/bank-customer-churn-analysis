@@ -26,3 +26,6 @@
  Дашборд
  
  https://public.tableau.com/app/profile/.23124621/viz/_16898910558550/sheet1?publish=yes
+
+ ## Installation
+Проект готов к запуску в Jupyter Notebook
