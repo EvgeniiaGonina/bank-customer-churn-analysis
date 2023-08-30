@@ -15,13 +15,13 @@
 
 ![Корреляции к показателю оттока](https://drive.google.com/uc?export=download&id=1znQBLUs5GZjaYIXnDBlfnRXTSLTveESZ)
 
-![Группы отточных клиентов](https://drive.google.com/file/d/152HYsg2s0RYQEOUZyI33pVfT2hnOODeu/view?usp=sharing)
+![Группы отточных клиентов](https://drive.google.com/uc?export=download&id=152HYsg2s0RYQEOUZyI33pVfT2hnOODeu)
 
 ## Appendix
 
 Презентация
 
- https://drive.google.com/file/d/10uG4SkWhoz0eDMpbASLP4rKX3rKb23WM/view?usp=sharing
+ https://drive.google.com/uc?export=download&id=1koigT0LngTpS-nVzmt-0YS_bEdXCOEmQ
 
  Дашборд
  
