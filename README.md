@@ -20,6 +20,7 @@
 ## Appendix
 
 Презентация
+
  https://drive.google.com/file/d/10uG4SkWhoz0eDMpbASLP4rKX3rKb23WM/view?usp=sharing
 
  Дашборд
