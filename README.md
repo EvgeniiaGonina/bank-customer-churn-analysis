@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![Распределение клиентов банка](https://drive.google.com/file/d/1-PgdgP4KjSG-NNmRa5HcvJUd5JF4auIV/view?usp=drive_link)
+![Распределение клиентов банка](https://drive.google.com/file/d/1-PgdgP4KjSG-NNmRa5HcvJUd5JF4auIV/view?usp=sharing)
 ![](https://drive.google.com/file/d/1bc3noLGflnAwlpP77DjMISInHJuV0X2A/view?usp=drive_link)
 
 ![Корреляции к показателю оттока](https://drive.google.com/file/d/1znQBLUs5GZjaYIXnDBlfnRXTSLTveESZ/view?usp=drive_link)
